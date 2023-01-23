@@ -4,6 +4,8 @@ export {default as ChannelDetail} from './ChannelDetail'
 export {default as SearchFeed} from './SearchFeed'
 export {default as VideoDetail} from './VideoDetail'
 export {default as SearchBar} from './SearchBar'
+export {default as Sidebar} from './Sidebar'
+
 
 
 //these components will be imported to the App.js file which reduces the clutter from the App.js folder making it easier to understand and edit
